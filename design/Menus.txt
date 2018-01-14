@@ -1,7 +1,13 @@
-As the game will be text based in the console it'll be primarily menu based.
+As the game will be text based in the console it will be primarily menu based.
 
 
 Menu
+
+
+
+##########
+Menus
+
 
 
 
