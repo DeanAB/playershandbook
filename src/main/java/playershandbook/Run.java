@@ -10,19 +10,26 @@ public class Run
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        Run run =new Run();
     }
 	
 	Menus menus = new Menus();
 	
 	public Run(){
-		
+		gameloop();
 	}
 	
 	
 	public void gameloop(){
 		Scanner scan = new Scanner(System.in);
-		String s = scan.nextLine();
+		String command="";
+		
+		while(menus.hasCurrentMenu()){
+			menus.displayCurrentMenu();
+			menus.processCommand(scan.nextLine());
+			
+			
+		}
 		
 	
 		
