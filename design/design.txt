@@ -1,5 +1,1 @@
-This is a text based rpg made to practice advanced java. 
-
-
-
-
+Javafx based roguelike. 

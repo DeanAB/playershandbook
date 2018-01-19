@@ -30,7 +30,7 @@
 			<configuration>
 				<archive>
 					<manifest>
-						<mainClass>playershandbook/Run</mainClass>
+						<mainClass>playershandbook.Run</mainClass>
 					</manifest>
 				</archive>
 			</configuration>

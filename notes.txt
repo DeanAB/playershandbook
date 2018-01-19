@@ -5,3 +5,9 @@
 2018/01/15
 	##Update 2
 		$$Basic menu functionality works
+		
+		
+2018/01/19
+	##Update 3
+		$$Decided to change to gui roguelike
+			--Refactored into javafx
